@@ -8,8 +8,8 @@ import platform
 
 config_logging(logging, logging.DEBUG)
 
-key = "B6s2D1QFv9UCHtCQ7bJxmwtZzAudRgUhHihHcLfWXshODWHwY0XRwPavZbrptYgD"
-secret = "l7SF4MsU3nzXJIFxQ0xjofngASHmLza6LahZrhXtBW6XBzFddswMaE5BSxnz5GkD"
+key = "..."
+secret = "..."
 
 client = Client(key, secret)
 
